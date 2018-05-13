@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "进制转换", "进制转换\进制转换.vcxproj", "{63A9C1BD-CF64-4A7F-9F06-E04CD5A657AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A9C1BD-CF64-4A7F-9F06-E04CD5A657AF}.Debug|x64.ActiveCfg = Debug|x64
+		{63A9C1BD-CF64-4A7F-9F06-E04CD5A657AF}.Debug|x64.Build.0 = Debug|x64
+		{63A9C1BD-CF64-4A7F-9F06-E04CD5A657AF}.Debug|x86.ActiveCfg = Debug|Win32
+		{63A9C1BD-CF64-4A7F-9F06-E04CD5A657AF}.Debug|x86.Build.0 = Debug|Win32
+		{63A9C1BD-CF64-4A7F-9F06-E04CD5A657AF}.Release|x64.ActiveCfg = Release|x64
+		{63A9C1BD-CF64-4A7F-9F06-E04CD5A657AF}.Release|x64.Build.0 = Release|x64
+		{63A9C1BD-CF64-4A7F-9F06-E04CD5A657AF}.Release|x86.ActiveCfg = Release|Win32
+		{63A9C1BD-CF64-4A7F-9F06-E04CD5A657AF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {747F237C-79B7-4385-90C7-54E061DC0559}
+	EndGlobalSection
+EndGlobal
