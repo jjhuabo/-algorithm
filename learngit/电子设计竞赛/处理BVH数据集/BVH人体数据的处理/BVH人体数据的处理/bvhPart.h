@@ -19,9 +19,6 @@ public:
 	{
 		Xpos,Ypos,Zpos,Zrot,Yrot,Xrot
 	};
-
-	string name;
-	vector3f offset;
-	vector<matrix>                                                                                                                                       nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
+                                                                                                                                    nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
 };
 
